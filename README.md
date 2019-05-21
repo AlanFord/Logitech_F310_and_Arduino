@@ -1,5 +1,5 @@
 # Logitech_F310_and_Arduino
-USB HID driver that permits using the Logitech F310 gamepad with an Arduino
+This documents a USB HID driver that permits using the Logitech F310 gamepad with an Arduino.
 
 The goal here is to permit the use of the Logitech F310 gamepad with an Arduino (Uno or Mega) by way of the 
 Arduino USB Host Shield.  (other USB host shields may also work, but I don't have them to test).
